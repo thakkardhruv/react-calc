@@ -1,0 +1,18 @@
+.buttonDiv{
+    display: inline-flex;
+    width: 25%;
+}
+.buttonDiv button{
+    background-color: white;
+    border: 0;
+    flex: 1 0 auto;
+    margin: 0 1px 0 0;
+  }
+.orangeButton button{
+    background-color:orange;
+    color: white;
+}
+.wideButton{
+    width: 50%;
+}
+
